@@ -8,5 +8,6 @@
 - The WSR department can control the stock of the product and also order product from the supplier.
 - Also the payroll systemm automatically calculate the wages of the employee based on his working hours and produce a pay slip.
 
-- Smple.pdf file contains some screenshots of the system.
+- Sample.pdf file contains some screenshots of the system.
 - Some sourcecodes of the different form design and services is provided.
+- Dashboard.rar contains the whole project including the MDF database files.
