@@ -1,6 +1,6 @@
 # C#-Pharmaceutical-system
 
--The purpose of the system is to facilate the day to day process/work of a Pharmaceutical Company.The system is being developed in C# and is based on relational database MySQL.
+-The purpose of the system is to facilate the day to day process/works of a Pharmaceutical Company. The system is being developed in C# and is based on relational database Ms SQL.
 
 - Different departments such as the finance, HR, Production Department can used the system.
 - In the employee mangement service, the HR can search, add, update and  delete an employee's detail.
